@@ -1,0 +1,6 @@
+coverage:
+  precision: 2
+  round: nearest
+  range: "40...70"
+  ignore: 
+     - "zerocode/src/main/java/org/jsmart/zerocode/converter/SoapMocker.java"
