@@ -4,3 +4,5 @@ coverage:
   range: "40...70"
   ignore: 
      - "zerocode/src/main/java/org/jsmart/zerocode/converter/SoapMocker.java"
+codecov:
+  token: 6335d027-7106-483d-91cf-8391578f7311
